@@ -1,1 +1,196 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":""},"users":[],"project":{"github_org":"saamturner","is_private":false,"title":"Oscar Wilde, Arthur Conan Doyle, and Direct Voice Mediumship","description":"This project includes two recordings of Leslie Flint, one of the most prominent Direct Voice Mediums of the 20th century, channeling Arthur Conan Doyle and Oscar Wilde. The two recordings used in this project were recorded in 1966 (Doyle) and 1962 (Wilde), and are conversations between Leslie Flint as the Direct Voice Medium and various colleagues who are positioned as the \"interviewers\" of Arthur Conan Doyle and Oscar Wilde.","language":"en","slug":"wildedoyleflint","creator":"saamturner","authors":"Sam Turner","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[{"login_name":"tanyaclement","avatar_url":"https://avatars.githubusercontent.com/u/1213771?v=4","admin":false}],"tags":{"tagGroups":[],"tags":[{"tag":"Arthur Conan Doyle","category":"_uncategorized_"},{"tag":"Leslie Flint","category":"_uncategorized_"},{"tag":"Rose Creet","category":"_uncategorized_"},{"tag":"Wilde","category":"_uncategorized_"},{"tag":"Woods","category":"_uncategorized_"},{"tag":"Greene","category":"_uncategorized_"},{"tag":"Coughing","category":"_uncategorized_"},{"tag":"Laughter","category":"_uncategorized_"},{"tag":"Pace","category":"_uncategorized_"},{"tag":"Tone","category":"_uncategorized_"},{"tag":"Unintelligible","category":"_uncategorized_"},{"tag":"Distortion","category":"_uncategorized_"},{"tag":"Volume","category":"_uncategorized_"},{"tag":"Material","category":"_uncategorized_"},{"tag":"Suffering","category":"_uncategorized_"},{"tag":"Doubt","category":"_uncategorized_"},{"tag":"Truth","category":"_uncategorized_"},{"tag":"Spiritualism","category":"_uncategorized_"},{"tag":"Dormant","category":"_uncategorized_"},{"tag":"Quoting","category":"_uncategorized_"},{"tag":"Sherlock Holmes","category":"_uncategorized_"},{"tag":"Banging","category":"_uncategorized_"},{"tag":"Knock","category":"_uncategorized_"},{"tag":"Traffic","category":"_uncategorized_"},{"category":"_uncategorized_","tag":"Flint"},{"category":"_uncategorized_","tag":"Flint"},{"category":"_uncategorized_","tag":"Flint"},{"category":"_uncategorized_","tag":"Flint"},{"category":"_uncategorized_","tag":"Flint"},{"category":"_uncategorized_","tag":"Flint"},{"category":"_uncategorized_","tag":"Flint"},{"category":"_uncategorized_","tag":"Flint"},{"category":"_uncategorized_","tag":"Flint"},{"category":"_uncategorized_","tag":"Flint"},{"category":"_uncategorized_","tag":"Flint"},{"category":"_uncategorized_","tag":"Flint"},{"category":"_uncategorized_","tag":"Flint"},{"category":"_uncategorized_","tag":"Flint"},{"category":"_uncategorized_","tag":"Flint"},{"category":"_uncategorized_","tag":"Flint"}]},"created_at":"2024-12-04T17:28:57.459Z","updated_at":"2024-12-04T22:13:10.780Z","generate_pages_site":true},"is_private":false}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
+  },
+  "users": [],
+  "project": {
+    "github_org": "saamturner",
+    "is_private": false,
+    "title": "Oscar Wilde, Arthur Conan Doyle, and Direct Voice Mediumship",
+    "description": "This project includes two recordings of Leslie Flint, one of the most prominent Direct Voice Mediums of the 20th century, channeling Arthur Conan Doyle and Oscar Wilde. The two recordings used in this project were recorded in 1966 (Doyle) and 1962 (Wilde), and are conversations between Leslie Flint as the Direct Voice Medium and various colleagues who are positioned as the \"interviewers\" of Arthur Conan Doyle and Oscar Wilde.",
+    "language": "en",
+    "slug": "wildedoyleflint",
+    "creator": "saamturner",
+    "authors": "Sam Turner",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [
+      {
+        "login_name": "tanyaclement",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1213771?v=4",
+        "admin": false
+      }
+    ],
+    "tags": {
+      "tagGroups": [],
+      "tags": [
+        {
+          "tag": "Arthur Conan Doyle",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Leslie Flint",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Rose Creet",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Wilde",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Woods",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Greene",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Coughing",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Laughter",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Pace",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Tone",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Unintelligible",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Distortion",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Volume",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Material",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Suffering",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Doubt",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Truth",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Spiritualism",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Dormant",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Quoting",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Sherlock Holmes",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Banging",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Knock",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Traffic",
+          "category": "_uncategorized_"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Flint"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Flint"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Flint"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Flint"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Flint"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Flint"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Flint"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Flint"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Flint"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Flint"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Flint"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Flint"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Flint"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Flint"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Flint"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Flint"
+        }
+      ]
+    },
+    "created_at": "2024-12-04T17:28:57.459Z",
+    "updated_at": "2024-12-04T22:13:23.325Z",
+    "generate_pages_site": true
+  },
+  "is_private": false
+}
