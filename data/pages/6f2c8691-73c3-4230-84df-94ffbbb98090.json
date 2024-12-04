@@ -1,0 +1,201 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The "
+                },
+                {
+                  "text": "“what”",
+                  "bold": true
+                },
+                {
+                  "text": " of this project consists of direct voice channeling and the Leslie Flint Trust archives. "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Leslie Flint was one of the best known and most tested Spiritualists during the twentieth century. Flint was so well-known because he was a direct voice medium, which was a distinct type of channeling the spirits of the deceased. Instead of going into a trance to channel spirits–which would involve speaking in the character of someone else–he claimed the ability to conjure an ectoplasmic voice box that hovered in the room with him, and the voices of the dead were heard by attendees speaking through that voice box–not through Flint’s own larynx. "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "block-quote",
+              "children": [
+                {
+                  "text": "“The voices of the dead speak directly to their friends or relatives and are located in a space a little above my head and slightly to one side of me” (Flint)"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The "
+                },
+                {
+                  "text": "“why”",
+                  "bold": true
+                },
+                {
+                  "text": " of this project spans subfields in rhetorical, cultural, and media studies. Flint’s direct voice channeling was rigorously tested; scientists and skeptics would attend his seances and demand he hold a specific volume of water in his mouth the entire time (to be measured for before and after the seance), while in other tests sensors and microphones were affixed to his throat to measure vibrations. The results of these tests largely concluded that Flint was not in fact speaking–no vibrations were registered, and no water was spilled. "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "I’m far less interested in whether you, or I, or the people who attended Flint’s sittings actually “believed” in his ability, or in the idea that there is or isn’t really an ectoplasmic voice box in the room. "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The "
+                },
+                {
+                  "text": "“how”",
+                  "bold": true
+                },
+                {
+                  "text": " of this project is less defined right now. I’m working within AVAnnotate to create context and commentary around the audio, and am working towards locating this project more clearly within a given theoretical or methodological tradition. However, AVAnnotate is allowing me to interact with the audio in ways that move beyond listening and transcribing. I’m noticing that there’s a lot going on in these recordings regarding the way life is described after death, as well as the embodiment of the spectral voice. The voices (supposedly Doyle and Wilde) describe their material realities on the “other side,” their “world” beyond ours, and the bodies and spaces they've inhabited post-mortem. "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "What I have questions about are the ways various discursive communities sustained this practice as a) worthy of attention on a national or global scale, and b) made it legible as a verifiable practice through scientific tests. Concepts of life/death, voice, agency, and scientific truth are converging to create the conditions of reality that enabled this practice for decades. What can medium science/science of mediumship tell us about rhetorics of science, discursive construction of material, living/dead, and voice?  "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "image",
+              "url": "https://seekreality.com/wp-content/uploads/2022/06/EiraConacher.jpg",
+              "size": "full",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "align": "right"
+    }
+  ],
+  "title": "Introduction",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "introduction",
+  "created_at": "2024-12-04T17:36:31.026Z",
+  "created_by": "saamturner",
+  "updated_at": "2024-12-04T17:36:31.026Z",
+  "updated_by": "saamturner"
+}
