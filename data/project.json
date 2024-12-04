@@ -18,172 +18,133 @@
     "auto_populate_home_page": true,
     "additional_users": [],
     "tags": {
-      "tagGroups": [],
+      "tagGroups": [
+        {
+          "category": "Speaker",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Voice",
+          "color": "#ADFEFF"
+        },
+        {
+          "category": "Recording",
+          "color": "#99E6FF"
+        },
+        {
+          "category": "Topic",
+          "color": "#88C9F2"
+        },
+        {
+          "category": "Environment",
+          "color": "#99AFF2"
+        }
+      ],
       "tags": [
         {
           "tag": "Arthur Conan Doyle",
-          "category": "_uncategorized_"
+          "category": "Speaker"
         },
         {
           "tag": "Leslie Flint",
-          "category": "_uncategorized_"
+          "category": "Speaker"
         },
         {
           "tag": "Rose Creet",
-          "category": "_uncategorized_"
+          "category": "Speaker"
         },
         {
-          "tag": "Wilde",
-          "category": "_uncategorized_"
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
         },
         {
-          "tag": "Woods",
-          "category": "_uncategorized_"
+          "tag": "George Woods",
+          "category": "Speaker"
         },
         {
-          "tag": "Greene",
-          "category": "_uncategorized_"
+          "tag": "Betty Greene",
+          "category": "Speaker"
         },
         {
           "tag": "Coughing",
-          "category": "_uncategorized_"
+          "category": "Voice"
         },
         {
           "tag": "Laughter",
-          "category": "_uncategorized_"
+          "category": "Voice"
         },
         {
           "tag": "Pace",
-          "category": "_uncategorized_"
+          "category": "Voice"
         },
         {
           "tag": "Tone",
-          "category": "_uncategorized_"
+          "category": "Voice"
         },
         {
           "tag": "Unintelligible",
-          "category": "_uncategorized_"
+          "category": "Voice"
         },
         {
           "tag": "Distortion",
-          "category": "_uncategorized_"
+          "category": "Recording"
         },
         {
           "tag": "Volume",
-          "category": "_uncategorized_"
+          "category": "Recording"
+        },
+        {
+          "tag": "Background Noise",
+          "category": "Recording"
         },
         {
           "tag": "Material",
-          "category": "_uncategorized_"
+          "category": "Topic"
         },
         {
           "tag": "Suffering",
-          "category": "_uncategorized_"
+          "category": "Topic"
         },
         {
           "tag": "Doubt",
-          "category": "_uncategorized_"
+          "category": "Topic"
         },
         {
           "tag": "Truth",
-          "category": "_uncategorized_"
+          "category": "Topic"
         },
         {
           "tag": "Spiritualism",
-          "category": "_uncategorized_"
+          "category": "Topic"
         },
         {
           "tag": "Dormant",
-          "category": "_uncategorized_"
+          "category": "Topic"
         },
         {
           "tag": "Quoting",
-          "category": "_uncategorized_"
+          "category": "Topic"
         },
         {
           "tag": "Sherlock Holmes",
-          "category": "_uncategorized_"
+          "category": "Topic"
         },
         {
           "tag": "Banging",
-          "category": "_uncategorized_"
+          "category": "Environment"
         },
         {
           "tag": "Knock",
-          "category": "_uncategorized_"
+          "category": "Environment"
         },
         {
           "tag": "Traffic",
-          "category": "_uncategorized_"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Flint"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Flint"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Flint"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Flint"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Flint"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Flint"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Flint"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Flint"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Flint"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Flint"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Flint"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Flint"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Flint"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Flint"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Flint"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Flint"
+          "category": "Environment"
         }
       ]
     },
     "created_at": "2024-12-04T17:28:57.459Z",
-    "updated_at": "2024-12-04T22:40:31.232Z",
+    "updated_at": "2024-12-04T22:41:11.000Z",
     "generate_pages_site": false
   },
   "is_private": false
