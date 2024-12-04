@@ -1,5 +1,5017 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm delighted to be here."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "dce19ac9-f948-4090-94d1-ff894c42627c"
+    },
+    {
+      "start_time": 2,
+      "end_time": 4,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well I'm so glad."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Woods"
+        }
+      ],
+      "uuid": "f41d72ed-1bbf-4b5c-b23e-60335a02819e"
+    },
+    {
+      "start_time": 5,
+      "end_time": 7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm not quite sure if you can hear me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "4949d0bc-7b6e-4eb8-91ed-4dccdf2cca9a"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We hear you quite well."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Woods"
+        }
+      ],
+      "uuid": "cb284127-ff2e-4f55-9cf8-d445531622c2"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Very nicely thank you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "e480a0f0-fe09-4174-9f79-ae2f430720fb"
+    },
+    {
+      "start_time": 10,
+      "end_time": 26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause, static, electricity, warbling?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ff619a59-1f02-4c23-b775-91792435a6fe"
+    },
+    {
+      "start_time": 26,
+      "end_time": 28,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Come along friend you're doing very well. [muffled]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "9c3c80b3-1833-497f-9d5c-a832eecd616a"
+    },
+    {
+      "start_time": 29,
+      "end_time": 32,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Quite...quite clear. We can hear you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Woods"
+        }
+      ],
+      "uuid": "2d2b1539-0682-4ee0-b817-ec0332bb7b40"
+    },
+    {
+      "start_time": 33,
+      "end_time": 39,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Since I'm precisely doing nothing at the moment, I can't see how you can consider that I'm doing extremely well."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "835d4502-41e9-4fa3-8159-ad3e876c42cf"
+    },
+    {
+      "start_time": 40,
+      "end_time": 44,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughter"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        },
+        {
+          "tag": "Woods",
+          "category": "Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Flint"
+        }
+      ],
+      "uuid": "0a647d43-6a30-40ce-8668-46158b17da88"
+    },
+    {
+      "start_time": 42,
+      "end_time": 46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I thought perhaps you were saying something and we hadn't heard you? [Laughing]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "01585e71-c53e-4387-bffa-01de6d262a78"
+    },
+    {
+      "start_time": 46,
+      "end_time": 50,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Woods"
+        }
+      ],
+      "uuid": "1f895f12-c561-4600-8b31-0987e523ea84"
+    },
+    {
+      "start_time": 50,
+      "end_time": 53,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I've never been known to say nothing. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "3427c3ed-f20f-4e8e-a7fa-57fa1e55e967"
+    },
+    {
+      "start_time": 53,
+      "end_time": 54,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Please, may we have your name? You sound awfully..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "e65b77fb-8ac8-4bcd-9f22-0fbff3e0f980"
+    },
+    {
+      "start_time": 54,
+      "end_time": 61,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If I couldn't say something of value, then I'd much rather say nothing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "d878702d-253d-45bc-b9df-a957eb49f3ff"
+    },
+    {
+      "start_time": 62,
+      "end_time": 62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Who is it speaking please?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "f4a9c609-1db4-4c04-891d-c20a6d7adfc9"
+    },
+    {
+      "start_time": 63,
+      "end_time": 65,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is most extraordinary."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "8ac81979-a348-4e0c-8973-7f435a63810c"
+    },
+    {
+      "start_time": 66,
+      "end_time": 66,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes friends?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Woods"
+        }
+      ],
+      "uuid": "a9593ca8-563e-44be-affc-7e730842674a"
+    },
+    {
+      "start_time": 67,
+      "end_time": 81,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Then again...being dead is an extraordinary business! Especially when you are talking to people on Earth who are supposed to be alive and are very much dull and dim; and dead in consequence. What an extraordinary business this is."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "953b924b-ac3e-4acb-b076-a5b61d9ba2b6"
+    },
+    {
+      "start_time": 81,
+      "end_time": 81,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Woods"
+        }
+      ],
+      "uuid": "ed96576c-3c41-405f-8ce5-368cf802fc0f"
+    },
+    {
+      "start_time": 83,
+      "end_time": 92,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There seems to have been a great deal of interest in...my works lately."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "8f816faf-e268-4cdf-84ef-9655be12fba9"
+    },
+    {
+      "start_time": 94,
+      "end_time": 96,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I didn't quite catch what he said there..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Woods"
+        }
+      ],
+      "uuid": "1d623356-d4ee-43aa-bd26-bb527478f92d"
+    },
+    {
+      "start_time": 97,
+      "end_time": 99,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "...a great deal of interest in his work."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "13aec774-e8c1-4b69-8fde-410b8a9d08f0"
+    },
+    {
+      "start_time": 100,
+      "end_time": 101,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh I see. Yes, yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Woods"
+        }
+      ],
+      "uuid": "cd34b5ae-d577-4ca3-a698-9e7f2645b86e"
+    },
+    {
+      "start_time": 101,
+      "end_time": 110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Long pause, rumbling/car sounds (as with ACD audio)"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "eba2f144-5c14-4f56-a658-e5e043203e07"
+    },
+    {
+      "start_time": 109,
+      "end_time": 110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He's quite clear."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Woods"
+        }
+      ],
+      "uuid": "fc058439-0c25-434a-b4c0-a0fdd94bab9c"
+    },
+    {
+      "start_time": 110,
+      "end_time": 111,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mmm. I wish he'd give his name."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "2e6d6a12-4c6e-4bf3-8190-9c0dddff2b06"
+    },
+    {
+      "start_time": 111,
+      "end_time": 138,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Long pause, background noises"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8b5bfc77-5af9-4b0e-8d27-7dc1cc138b4f"
+    },
+    {
+      "start_time": 150,
+      "end_time": 176,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Many people from this side, invariably try to say a great deal and, in consequence, say very little. For the simple reason that we are having to utilise this extraordinary method of communication. Why they cannot invent something more congenial and more suitable and more successful than this, I can't imagine."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "3acd974b-418d-4142-85ea-b9c4bd5bac79"
+    },
+    {
+      "start_time": 176,
+      "end_time": 199,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I suppose one must be grateful for Mediums. It's a pity that Mediums have to be human beings, because they are so difficult, so complex. Take this Medium for instance; if you could see this Medium as I do from this side of life, you'd realise what we have to contend with."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "25112013-7c54-4889-af82-b4dc9faa09b0"
+    },
+    {
+      "start_time": 203,
+      "end_time": 206,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, well we can hear you quite well friend."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Woods"
+        }
+      ],
+      "uuid": "99801514-b8f4-4043-bcc9-7653abe39911"
+    },
+    {
+      "start_time": 208,
+      "end_time": 209,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Friend, may we have your name?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "c3683623-f3a3-438e-9ea3-3e68f2480ffe"
+    },
+    {
+      "start_time": 211,
+      "end_time": 217,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Why are you so concerned with my name? Surely, what I say is far more important than my name?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "4e793eb1-270c-47dd-ac63-bd112bb31e56"
+    },
+    {
+      "start_time": 217,
+      "end_time": 218,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes but you'd be surprised..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "f26b2c6c-abc8-4455-9fa8-9b724401f08e"
+    },
+    {
+      "start_time": 219,
+      "end_time": 222,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My name got me into a great deal of trouble when I was on your side."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "0f9419ac-34f3-4ba9-b16d-e6d32423fafd"
+    },
+    {
+      "start_time": 224,
+      "end_time": 225,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well never mind."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "8ab26a7e-4cd9-4295-86f5-af04ca98fae9"
+    },
+    {
+      "start_time": 228,
+      "end_time": 234,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thing is...is, uh...when we play this tape to other people you see, they ask who it is and we...sometimes we can't tell, you see?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Woods"
+        }
+      ],
+      "uuid": "cd1c3285-510c-44f5-8d96-b32a2142495c"
+    },
+    {
+      "start_time": 235,
+      "end_time": 236,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You can tell them it's Colonel Bogey."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "bd14b5f1-8c89-48f7-9fdb-0cb13a8ad36e"
+    },
+    {
+      "start_time": 237,
+      "end_time": 243,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Flint"
+        }
+      ],
+      "uuid": "cef2db65-2a08-4232-9ce7-0cefaf524133"
+    },
+    {
+      "start_time": 243,
+      "end_time": 246,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Laughing] I don't think they'd quite relish that...I don't know."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Woods"
+        }
+      ],
+      "uuid": "99e89b1a-328f-46aa-b21e-13865fcc4338"
+    },
+    {
+      "start_time": 246,
+      "end_time": 251,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But, um, anyway friend, we're very pleased to have you through anyway."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Woods"
+        }
+      ],
+      "uuid": "b3ac6cc6-864b-4902-bc53-4c8147e9c081"
+    },
+    {
+      "start_time": 254,
+      "end_time": 257,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I'm sure you are much more pleased to have me through than I am to come."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "8ee8b070-ed00-4548-a4a6-5ee1c6ad2cc9"
+    },
+    {
+      "start_time": null,
+      "end_time": 258,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Woods"
+        }
+      ],
+      "uuid": "10e9a48b-358d-4500-8e6a-e58c52b186cb"
+    },
+    {
+      "start_time": 259,
+      "end_time": 282,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At least perhaps it'd be more correct to say, that I'm quite happy to come; but I certainly wish that it were much more congenial in trying to converse - to pass through to you my thoughts - through this particular method of communication; which may or may not be successful, according to whatever way you happen to view it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "a2a90312-e15c-4418-b3e9-2aaafff64e47"
+    },
+    {
+      "start_time": 282,
+      "end_time": 298,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But from my point of view it's the most irritating business. Here am I trying to talk intelligently to you and I find this fluctuating thing that I have to use, makes it practically an impossibility."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "f8bedb00-f0d5-4174-adcc-84fe3652da9a"
+    },
+    {
+      "start_time": 304,
+      "end_time": 405,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When one writes, though one has the medium of the pen, there is nothing to bar you from clearly putting down on paper, your thoughts. But when you have to use another human being to demonstrate that which you feel intensely within yourself, I find it extremely irritating. Because how can another person be responsible for that which I want to convey to you with clarity and intelligence? No individual can ever act as an instrument in the true sense. I remember way back, centuries ago now it must seem, if not to you to me...that I used to try to get people to portray characters that I had created and to say lines that I had given them. It used to sound, often, so strange to me. As if they were not my lines at all and yet they were. But the people very seldom seemed to have the proper intonation, very seldom seemed to be able to put the weight behind the right word to convey the meaning behind the sentence, to give it authority and tone and colour. Invariably people were, with all due respect, very poor mediums. The same applies here using a Medium to communicate with you from this side of life. It's like using an actor on your side to try and use that person to impersonate, to give through, as it were, oneself - or that which one has written, in the case of my plays. All very confusing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "8db9e966-ec34-47e6-9372-80daa7bd7838"
+    },
+    {
+      "start_time": 406,
+      "end_time": 408,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, 'my plays'...?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "44401a4d-112d-470d-b834-0cd8023a9b93"
+    },
+    {
+      "start_time": 409,
+      "end_time": 413,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh you might as well know. My name is Wilde."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "3137b1d5-df3d-4fb9-bd85-16320d9fabba"
+    },
+    {
+      "start_time": 414,
+      "end_time": 415,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oscar Wilde?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "74f78f18-fab1-47a4-a735-382d1adb46b2"
+    },
+    {
+      "start_time": 416,
+      "end_time": 417,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, I've read your books."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Woods"
+        }
+      ],
+      "uuid": "7659f3f5-3ee4-4d4b-838b-91a00e6e3ba1"
+    },
+    {
+      "start_time": 418,
+      "end_time": 418,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh how lovely."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "7b957b23-d141-4284-9165-e4bd057987ce"
+    },
+    {
+      "start_time": 418,
+      "end_time": 419,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes. I'm so pleased..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Woods"
+        }
+      ],
+      "uuid": "c97c0690-036e-4b13-8e49-a4f17db9df51"
+    },
+    {
+      "start_time": 419,
+      "end_time": 419,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How fortunate you are."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "2032a7a4-149e-4c0d-9a9e-e58b1821d875"
+    },
+    {
+      "start_time": 420,
+      "end_time": 420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pardon?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "d87c82a2-9c61-4534-8942-01e06346aa56"
+    },
+    {
+      "start_time": 422,
+      "end_time": 425,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I say, how fortunate you are to have read my books."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "143a3705-e39f-4f2b-8add-b4ef9a1f82a6"
+    },
+    {
+      "start_time": 425,
+      "end_time": 426,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, I have"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "92fc9962-cdd4-463f-9ba5-72dabe371954"
+    },
+    {
+      "start_time": 426,
+      "end_time": 426,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Good heavens!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Woods"
+        }
+      ],
+      "uuid": "1feb5e08-039d-4361-bd76-ab2b2b8c5692"
+    },
+    {
+      "start_time": 426,
+      "end_time": 432,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes. Oh good grief. Yes, I've got some of your books...had some at least. A lot of your books."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Woods"
+        }
+      ],
+      "uuid": "9aede1e9-a673-4350-9c28-07a6a60e4a73"
+    },
+    {
+      "start_time": 432,
+      "end_time": 433,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How nice of you to come through."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "54f78801-db91-4cce-afee-ca45b6904c2c"
+    },
+    {
+      "start_time": 433,
+      "end_time": 446,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I suppose I should be highly flattered to know that you've read my books and you've actually got one or two. Which means or rather suggests that you bought them, which is very nice to know. But not that I'm getting any of the royalties. No doubt you belong to a very good library."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "702babfd-26b9-4a81-8726-446247c8941b"
+    },
+    {
+      "start_time": 446,
+      "end_time": 450,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Laughing]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Flint"
+        }
+      ],
+      "uuid": "71f99b83-f7e6-44f6-9635-797140a3c7be"
+    },
+    {
+      "start_time": 450,
+      "end_time": 453,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mr Wilde, can you tell us some of you life on the other side now if you please - what you're doing?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "a96d1b65-1432-48c4-87d7-2ef5a1ab7105"
+    },
+    {
+      "start_time": 454,
+      "end_time": 466,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well I must admit, it's a relief to be asked to discuss one's life over here, in preference to one's life when on Earth. Because in any case my life when on Earth is pretty well-known among the gossip-mongers."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "41390d4f-a519-4dc6-9ca0-1ddca0cfe8cb"
+    },
+    {
+      "start_time": 466,
+      "end_time": 471,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Both laughing]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Flint"
+        }
+      ],
+      "uuid": "f712a034-e4b2-4284-8197-7a713fcf5c6b"
+    },
+    {
+      "start_time": 471,
+      "end_time": 472,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Very interesting..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Woods"
+        }
+      ],
+      "uuid": "ccd0b2b6-c425-4537-b5c6-90520f98059d"
+    },
+    {
+      "start_time": 472,
+      "end_time": 488,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If I were to say to you that my life here is not un...unlike my life on Earth you would probably be very horrified. But it happens to be perfectly true and I've no regrets about it whatsoever. I'm perfectly happy and perfectly contended and I live a life of delicious sin!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "4b399a13-adc6-4b8c-9fae-ff75cec9c96b"
+    },
+    {
+      "start_time": 489,
+      "end_time": 491,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Laughing]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Flint"
+        }
+      ],
+      "uuid": "051f9b2a-7b94-40f9-9621-cc3232a34825"
+    },
+    {
+      "start_time": 490,
+      "end_time": 491,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Unintelligible]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "69eebc0d-bb5b-4401-97c3-fdf7f47ad415"
+    },
+    {
+      "start_time": 491,
+      "end_time": 515,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But only as the world sees sin. Because as the world sees sin, it is no longer sin here to be human and to be natural. But on Earth, to be natural is to be sinful. But over here one can be sinful because it is natural. But the world has strange ideas of sin. I live a natural...natural existence here and I'm perfectly happy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "9366549f-bc69-452b-8773-34a4f29f6276"
+    },
+    {
+      "start_time": 515,
+      "end_time": 525,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I have my friendships and I have my friends, because you can't have friendships without friends, obviously. What an extraordinary couple you are..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "f0880632-e1bc-466c-b2df-828b1f367eac"
+    },
+    {
+      "start_time": 526,
+      "end_time": 526,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Why?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "b5c11ed4-297a-4d44-84bd-e57a8aaee98f"
+    },
+    {
+      "start_time": 528,
+      "end_time": 544,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well I've heard about you; how you strive to reach people on your side, to enlighten them and to uplift them. But do you think they are going to any happier for that? Having seen so many people, I think they are much happier in their miseries and in their darkness, than ever they are in light."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "2912580f-5a70-40ee-916b-45b6be791e15"
+    },
+    {
+      "start_time": 544,
+      "end_time": 551,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You show illumination to a person, they'd start screaming like mad and run like mad to escape from the illumination."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "cd63ac06-4fb7-48b5-8574-8025dba29f42"
+    },
+    {
+      "start_time": 551,
+      "end_time": 552,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Laughing]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Woods"
+        }
+      ],
+      "uuid": "a603bbec-cb77-4d18-a6c9-dc93e881477f"
+    },
+    {
+      "start_time": 553,
+      "end_time": 554,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well I wouldn't say that in every case Mr Wilde."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "87698ef4-8eed-4fd0-a403-fb13bfd62802"
+    },
+    {
+      "start_time": 554,
+      "end_time": 556,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I know! I'm being facetious."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "2b5fe7f6-3a91-45c6-b826-8fa41a76d39c"
+    },
+    {
+      "start_time": 556,
+      "end_time": 557,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Laughing]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "458ea0dc-8d97-4886-9335-b92d03ded9d4"
+    },
+    {
+      "start_time": 557,
+      "end_time": 580,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But then of course, I do realise that there are many people in your world whom could be helped by this truth. Because it is truth. But at the same time, there are many to whom it might even be a bad thing. Look how happy some of them are with their saints. What a pity to take them away from their saints. They would be lost. They would be like children in the wilderness."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "fa8615f0-2d1f-4373-93cd-1f94d17471c1"
+    },
+    {
+      "start_time": 581,
+      "end_time": 583,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They are to be pitied you mean really?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "4e4ac3c1-e01b-43cf-82c1-fbabeb52a13c"
+    },
+    {
+      "start_time": 583,
+      "end_time": 594,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh I wouldn't say that. It gives them great happiness. Why take away something from a child that amuses it and keeps it quiet? After all, do you want the child screaming because it's lost its toy?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "616fa92f-5f2a-451c-82d8-4999fa1997df"
+    },
+    {
+      "start_time": 595,
+      "end_time": 609,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Knowledge comes with adult life, so we are told. That's why so many adults are like children. They haven't really grown at all have they? What an extraordinary pair you are..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "50fa678b-5bfb-486f-b179-5a730cea2cb3"
+    },
+    {
+      "start_time": 610,
+      "end_time": 610,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Laughing]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "157b2d92-4d1e-49bc-9f0a-5d012de46e85"
+    },
+    {
+      "start_time": 611,
+      "end_time": 620,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Laughing] Well I quite agree with you really. I look upon, really, the people like children, in the way of the knowledge and the...how they express their knowledge."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Woods"
+        }
+      ],
+      "uuid": "3da84153-a863-43f0-ad03-a8fea956536f"
+    },
+    {
+      "start_time": 620,
+      "end_time": 639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So many of those on your side who profess, evidently, to know this knowledge, to know this truth, to know about communication, to know about life after death - so many of them seem to me rather like overgrown children. They haven't really benefitted from their knowledge."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "c74eedf3-1714-4532-ad45-5018085d7881"
+    },
+    {
+      "start_time": 642,
+      "end_time": 642,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Sighs]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "4c269729-f441-46f9-84d6-e6f5a8460260"
+    },
+    {
+      "start_time": 642,
+      "end_time": 646,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Indeed, it seems to me that some would have been better without it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "c5ee9e97-73d0-47b4-a871-6a0af541eedf"
+    },
+    {
+      "start_time": 647,
+      "end_time": 658,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes. There is a point there, that some would be better without it, in the way they use it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Woods"
+        }
+      ],
+      "uuid": "9d1ded74-e8fa-4b5c-8d25-151336aa8fd8"
+    },
+    {
+      "start_time": 658,
+      "end_time": 663,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know, you don't want to attack this subject as if you were some missionary going out into darkest Africa. You might end up in the cooking pot you know."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "e8fce8f4-c3dd-4824-a91b-190a3c13147d"
+    },
+    {
+      "start_time": 663,
+      "end_time": 666,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Laughing]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Woods"
+        }
+      ],
+      "uuid": "8ade8235-bab6-4ae4-abc5-c1cbb3606c40"
+    },
+    {
+      "start_time": 667,
+      "end_time": 669,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think we've ended up in more than one cooking pot really..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "cc05bfeb-cb1c-4597-96c9-53fcb1f42422"
+    },
+    {
+      "start_time": 669,
+      "end_time": 676,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm quite sure you have. And I'm quite sure the people who have stirred the cooking pot for you have been the Spiritualists."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "8f102b84-d740-4571-b3e5-0e4c5762e5d7"
+    },
+    {
+      "start_time": 677,
+      "end_time": 678,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "96448def-a7fe-47aa-bfda-66877926bd35"
+    },
+    {
+      "start_time": 678,
+      "end_time": 678,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Laughing]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Flint"
+        }
+      ],
+      "uuid": "e4748ae2-7bc7-4593-a928-ff1777ace066"
+    },
+    {
+      "start_time": 678,
+      "end_time": 680,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You would be much safer among the wildlife."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "8c7a2740-060a-474d-8ebb-d7225bb8ea6b"
+    },
+    {
+      "start_time": 681,
+      "end_time": 683,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, I agree with you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Woods"
+        }
+      ],
+      "uuid": "f7b8cffe-c056-4ca8-8712-e95956ca51b0"
+    },
+    {
+      "start_time": 684,
+      "end_time": 704,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "These Spiritualists...you know, I've to many of their so-called meetings and séances. Do you know, if it were not rather sad, it would be highly amusing. I've been to some of these séances, these meetings and really, it's so...so pathetic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "aa050395-b331-4a88-a8a6-e7afb441b129"
+    },
+    {
+      "start_time": 705,
+      "end_time": 720,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I've seen dear little old women in Bayswater, standing up, orating - or at least so they thought – thinking, no doubt, they were being controlled by some great entity or soul from this side. Their imaginations run riot in Bayswater!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "1e93d6b6-a454-46e0-a173-925d88950fb9"
+    },
+    {
+      "start_time": 721,
+      "end_time": 722,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mmm."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "024ac019-fa0d-4c2a-ab99-f885c286e5a2"
+    },
+    {
+      "start_time": 722,
+      "end_time": 724,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes. I quite agree with you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Woods"
+        }
+      ],
+      "uuid": "c5ad0cee-d425-437f-9f43-1d59b98a4a35"
+    },
+    {
+      "start_time": 724,
+      "end_time": 741,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So much harm is done by these strange creatures. Why is it that the women of sixty turn to this sort of thing and become most extraordinary characters in consequence? They would have been much happier pushing a bassinet up Bayswater Road!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "75a8adf3-7b4f-4485-8041-87a669606f42"
+    },
+    {
+      "start_time": 741,
+      "end_time": 745,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Loud laughter]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Flint"
+        }
+      ],
+      "uuid": "f505da10-a743-4b19-98f7-b0d5083740ef"
+    },
+    {
+      "start_time": 744,
+      "end_time": 745,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Perhaps that's why they've done it, because they've had no bassinet to push."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "95da9642-7887-4f7e-90bf-9be91951899d"
+    },
+    {
+      "start_time": 745,
+      "end_time": 746,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Possibly."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "34a0c89c-fe82-4d3b-9e54-926783c171d8"
+    },
+    {
+      "start_time": 747,
+      "end_time": 747,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Woods"
+        }
+      ],
+      "uuid": "fbd45ce9-2def-46aa-812f-756766180d94"
+    },
+    {
+      "start_time": 748,
+      "end_time": 755,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Though they certainly haven't given birth to children, but they've given birth to some very weird creations purporting to come from our side of life."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "3a31b815-3163-4451-90ed-62850fdb65b2"
+    },
+    {
+      "start_time": 758,
+      "end_time": 759,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Laughing]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Flint"
+        }
+      ],
+      "uuid": "e3c8b04c-4a30-4a54-a347-5f3775fc573e"
+    },
+    {
+      "start_time": 759,
+      "end_time": 761,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What are you doing on that side of life now, uh..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Woods"
+        }
+      ],
+      "uuid": "f6824582-b96b-471d-b335-de0738d49135"
+    },
+    {
+      "start_time": 762,
+      "end_time": 763,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Why should I tell you what I'm doing?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "85b23036-eda3-460a-a4e6-cfef45d266e8"
+    },
+    {
+      "start_time": 764,
+      "end_time": 766,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, we're very, very interested. We'd like...it would be interesting."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "d8213e6c-c63b-45bf-bbbd-296790878cc6"
+    },
+    {
+      "start_time": 767,
+      "end_time": 769,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Actually...seriously...I am still writing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "a88f19c4-bb26-42e2-a93e-31c2e6180efb"
+    },
+    {
+      "start_time": 770,
+      "end_time": 771,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh good."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Woods"
+        }
+      ],
+      "uuid": "f7d82ea6-84a8-4d59-873b-94d749308d17"
+    },
+    {
+      "start_time": 770,
+      "end_time": 771,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh good."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "993693d9-c0ca-4005-bc63-fb6081685ff3"
+    },
+    {
+      "start_time": 771,
+      "end_time": 786,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I am still having my plays performed. And I am often called upon to go down into the lower spheres - to help. Strange no doubt you may think, that I should be called to lower spheres to help..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "81c339d5-9b23-44e6-90ed-3d9084fdc907"
+    },
+    {
+      "start_time": 787,
+      "end_time": 787,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, no. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "51842202-a47e-4595-bce7-e6dd33c055a5"
+    },
+    {
+      "start_time": 790,
+      "end_time": 807,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Possibly, you might even interpret as well, probably I am more suitable to help people on lower spheres, because I haven't progressed very much myself - but actually, I'm very much in tune with all peoples. My mind, I trust, gives me the entrée, even if my reputation does not."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "6efcf83a-c14d-46c4-9a65-80a91c5d128b"
+    },
+    {
+      "start_time": 809,
+      "end_time": 811,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh I don't know. Your books were..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Woods"
+        }
+      ],
+      "uuid": "2ab5e4b8-279f-4433-ad31-8c93e15799c2"
+    },
+    {
+      "start_time": 813,
+      "end_time": 815,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My reputation does not worry me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "d898c05c-ab4f-4786-866e-87b491981846"
+    },
+    {
+      "start_time": 815,
+      "end_time": 815,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Good."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "fc6eb84c-d090-49f8-9080-d40a70f4df59"
+    },
+    {
+      "start_time": 816,
+      "end_time": 819,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But it seems to worry a hell of a lot of people on your side."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "2ab21b51-15d0-4239-849d-c3e25b22ab2f"
+    },
+    {
+      "start_time": 820,
+      "end_time": 822,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Your books are very valuable in knowledge."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Woods"
+        }
+      ],
+      "uuid": "0b1806ec-1efb-4675-a11a-4fb53978e8db"
+    },
+    {
+      "start_time": 823,
+      "end_time": 823,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Unintelligible]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "dba01046-efdd-431b-a893-2ed35b9df21a"
+    },
+    {
+      "start_time": 824,
+      "end_time": 834,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Evidently, more money has been made out of my reputation since my death, than ever I was able to make out of my plays; which goes to say that sin is very successful!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "342f404a-95d4-48ca-a8a2-60f6fda648a3"
+    },
+    {
+      "start_time": 834,
+      "end_time": 840,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Laughing]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "7a6fc5be-9abe-4c1f-9c2f-ebe5baee6d68"
+    },
+    {
+      "start_time": 834,
+      "end_time": 840,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Laughing]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Flint"
+        }
+      ],
+      "uuid": "aabc2954-2a6e-4356-af68-608e9f360d20"
+    },
+    {
+      "start_time": 841,
+      "end_time": 843,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You said Mr Wilde, you always had a very open mind, didn't you?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "af4b366e-e403-4192-b1cb-d089949d3966"
+    },
+    {
+      "start_time": 845,
+      "end_time": 846,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My mind was always wide open."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "0e0181a2-c303-4084-a841-06bef1be97ed"
+    },
+    {
+      "start_time": 847,
+      "end_time": 848,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was above the average, you see."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Woods"
+        }
+      ],
+      "uuid": "398614e1-6491-4ef0-a29e-7fea1be64d77"
+    },
+    {
+      "start_time": 850,
+      "end_time": 882,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My mind was always very wide open and as you say, above the average. Can you tell me what the average is and how open a mind should be? I was always ready to receive inspiration. Indeed, I might say that my most successful works were due to the fact that I had an open mind and in consequence, much was poured through it of inspiration, which was highly successful and I feel sure that if it were not for the fact that I was 'high-minded' we wouldn't have had perhaps some of the successful works that I was able to perform."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "0b9e762c-29af-44ee-85b9-eeb04ac875d7"
+    },
+    {
+      "start_time": 882,
+      "end_time": 882,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mmm."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "7e9b1861-97cf-44cf-8f58-b63da61f6c62"
+    },
+    {
+      "start_time": 883,
+      "end_time": 892,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But of course this is a matter of dispute among many people. One man's rat poison is another man's meat."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "9637cdba-a46d-41c5-8a6d-ce9a60ba435e"
+    },
+    {
+      "start_time": 893,
+      "end_time": 896,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh no, I think...I think every writer is inspired from somewhere to a certain extent."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "9047fea0-32c0-4e96-bd57-9b349dcaf85b"
+    },
+    {
+      "start_time": 897,
+      "end_time": 901,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh well don't take away our own personality and our own originality my dear, please."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "5e18abd3-72c8-48c0-b786-f39ecb05eb04"
+    },
+    {
+      "start_time": 901,
+      "end_time": 902,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh no, no..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "70f72ebd-78e1-4c27-a75b-5902f63cb1e5"
+    },
+    {
+      "start_time": 903,
+      "end_time": 908,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But, um, I'm quite prepared to admit I was inspired. I was always an inspiring figure."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "9b2ebf59-0a14-42c3-9d1a-8a2b883bb56b"
+    },
+    {
+      "start_time": 908,
+      "end_time": 910,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Laughing]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "7b807d74-4613-4f40-ac30-b8dd2a3d4927"
+    },
+    {
+      "start_time": 911,
+      "end_time": 913,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In fact, now I've become almost awe-inspiring, possibly because I'm dead!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "8120f75c-bf63-406f-9e31-793f92454b94"
+    },
+    {
+      "start_time": 914,
+      "end_time": 916,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Laughing]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "10c33545-b5c4-42f7-8e7f-2428049f5a86"
+    },
+    {
+      "start_time": 917,
+      "end_time": 919,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Coughing]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Flint"
+        }
+      ],
+      "uuid": "5a55cc82-0bb2-49f3-aaff-fd011449471c"
+    },
+    {
+      "start_time": 918,
+      "end_time": 919,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mr Wilde, um..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "5d1d0865-7997-444c-83f9-37618b88a56c"
+    },
+    {
+      "start_time": 920,
+      "end_time": 923,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You wish me to drop the flippancy and be serious?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "28758815-ceed-4052-b002-2ff9f1061fee"
+    },
+    {
+      "start_time": 923,
+      "end_time": 924,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, no...it's typically you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "a8ef923f-de02-4c81-b091-963a59872d3a"
+    },
+    {
+      "start_time": 925,
+      "end_time": 926,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But to be serious is often to be boring."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "edfdb96b-10aa-4cda-99f5-5e21e9bc26dc"
+    },
+    {
+      "start_time": 926,
+      "end_time": 926,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "...don't drop it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "e10c9fcd-736f-41dc-aa4d-864cc504cd82"
+    },
+    {
+      "start_time": 927,
+      "end_time": 937,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So many people when on Earth were so serious that they couldn't fail to be utterly boring and I refuse to join such a gathering."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "ec678a08-e0a1-4e87-9fc5-405e7f26cc58"
+    },
+    {
+      "start_time": 938,
+      "end_time": 940,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No please don't drop it, because it wouldn't be you weren't like that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "ba89ea98-18d6-43d4-a481-090f618c6a6b"
+    },
+    {
+      "start_time": 941,
+      "end_time": 976,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This I do deliberately, because there will always be people who say 'how do we know that this is Oscar Wilde?' And so I am expected to come back very much the same, with the same...attitude towards life and towards people and to say the same sort of things that would be expected of me. So for your sakes I do this, because I know, poor dears, you're struggling so desperately hard to convince. And if I can assist you to convince, then I shall be doing some good work that may wipe out some of my blots. Oh!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "4c3c67f0-373f-4d44-9f8b-ff9b4e6f9e9c"
+    },
+    {
+      "start_time": 977,
+      "end_time": 982,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mr Wilde? Since you've been on the other side have you... have you learned anything?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "7be5544f-ec8d-4a77-9aa8-656407b83665"
+    },
+    {
+      "start_time": 984,
+      "end_time": 989,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'd be a most strange person if I hadn't learned something after being here so long."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "87ed1da3-aded-49a8-801b-369840c56c9b"
+    },
+    {
+      "start_time": 990,
+      "end_time": 990,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mmm..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "26e97a74-0118-4afd-9fa9-a93ad0443f43"
+    },
+    {
+      "start_time": 990,
+      "end_time": 997,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We all learn, whether we like it or not. Whether we are apt pupils or not, we all learn, no matter how bad the teacher."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "e64e200f-80ad-4b01-afd6-39949627cd10"
+    },
+    {
+      "start_time": 998,
+      "end_time": 1000,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Were you surprised when you found yourself on..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "00068d9c-ecd1-4998-8b7c-8b0c452fb4e3"
+    },
+    {
+      "start_time": 1001,
+      "end_time": 1018,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nothing has ever surprised me. And certainly nothing could possibly surprise me in regard to God, because he was a person who was always doing the most surprising things - if one was to believe all that one read in the Bible. In fact, he seemed such an extraordinary character, that he became interesting in consequence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "763f8fc9-05a8-4ef3-96e1-a9f03d207ef5"
+    },
+    {
+      "start_time": 1019,
+      "end_time": 1020,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "e8f50674-f938-4522-9b8b-91383a77bec4"
+    },
+    {
+      "start_time": 1020,
+      "end_time": 1024,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Laughing]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Flint"
+        }
+      ],
+      "uuid": "3899de43-d6df-4137-90cc-a87c83602615"
+    },
+    {
+      "start_time": 1025,
+      "end_time": 1026,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "f95aa54b-edd6-4ae0-bcc0-746fb80f9e6c"
+    },
+    {
+      "start_time": 1026,
+      "end_time": 1029,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Sniffing]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Flint"
+        }
+      ],
+      "uuid": "37383017-1057-4710-b0e7-d1bc1f65c811"
+    },
+    {
+      "start_time": 1029,
+      "end_time": 1035,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Um, how actually did you find yourself when you passed over? Can you, sort of, describe your actual passing?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "226ddb8f-f589-40c5-80b4-e5b3a06a5919"
+    },
+    {
+      "start_time": 1036,
+      "end_time": 1038,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, I just died like everybody else."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "17111993-97c7-47c3-9595-cf58da06bb73"
+    },
+    {
+      "start_time": 1041,
+      "end_time": 1044,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mmm...but you must have found yourself somewhere; in a garden or a room or..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "4a9f3ec3-ecca-421e-9b72-a393e573a34e"
+    },
+    {
+      "start_time": 1044,
+      "end_time": 1058,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Why should I necessarily find myself in a garden? Or why, for that matter, should I necessarily find myself in a room? How embarrassing it would be, for instance, to wake up and find that you were in Lady Cynthia's boudoir at a very inconvenient moment."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "a66b6736-2862-41fc-b20c-4e207dde562a"
+    },
+    {
+      "start_time": 1058,
+      "end_time": 1062,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Laughing]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Flint"
+        }
+      ],
+      "uuid": "25e31f60-3a0f-4593-8f48-1dab4cf0fce8"
+    },
+    {
+      "start_time": 1062,
+      "end_time": 1069,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No but, I mean, people met you didn't they? Somebody must have met you and helped you over?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "d3d92200-a62f-470e-9199-8f65c2d31f4c"
+    },
+    {
+      "start_time": 1069,
+      "end_time": 1106,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well it's a natural thing I suppose to assume, that if you're going on a long train journey somewhere, that your friends at the other end will be at the station to meet you. But I do remember taking some extraordinarily long journeys and having a wearisome trip in consequence, and arriving in the middle of the night and no one there, no one with a brougham**, no one with anything. Just stuck there with one's...with...with one's luggage, wondering whether to go to the nearest hotel or to get the train and go straight back. But of course, unfortunately one can't get the train and come back to your side of life or fortunately, whichever way you happen to look at it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "ca19781f-77aa-4bb8-8b44-dc0aa9753187"
+    },
+    {
+      "start_time": 1106,
+      "end_time": 1110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But actually, seriously, I was met by my mother."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "21db2f4c-c46c-4d5f-b674-c993e4497bbc"
+    },
+    {
+      "start_time": 1112,
+      "end_time": 1112,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "f17a704a-1171-4c3b-8420-2d73bc0c96b3"
+    },
+    {
+      "start_time": 1114,
+      "end_time": 1121,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And how did you find things there, you know? Did you find it much about the same, as things on Earth or did you find things vastly different?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Woods"
+        }
+      ],
+      "uuid": "ed96a505-2c94-4cee-b94d-718c31eeb2d6"
+    },
+    {
+      "start_time": 1122,
+      "end_time": 1153,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well naturally. You can't go to a strange country without finding things vastly different. But the extraordinary and interesting thing is that the people were the same. Situations may be different, the country may be different, habits may be different, one's attitude towards life and everything may be different. The people, thank God, are the same. They still look the same and they still are the same - and, in consequence, one felt at home."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "1dfa2160-9331-4311-8f3d-e67e6671b562"
+    },
+    {
+      "start_time": 1155,
+      "end_time": 1170,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I met many, many people that I had admired and many that I didn't admire and since have learned to admire. For different reasons of course. And I've travelled a great deal; to many places, many spheres - many countries - if you like to call them such. Because in a sense, they are."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "85cdb7cc-09c8-4f9b-ab6b-7369ec2fac2a"
+    },
+    {
+      "start_time": 1171,
+      "end_time": 1186,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There are no barriers, only barriers in oneself...within oneself, in one's own mind. The barriers between human relationships and peoples are within oneself; they are man-made and one learns to discard them."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "3f4ec914-f4e5-4c79-87ac-9ef434394cc7"
+    },
+    {
+      "start_time": 1186,
+      "end_time": 1202,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One learns gradually to avoid many of the pitfalls, but when one has been here, even for a short time, one realises how very much we are all part of the other."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "64700ce4-45aa-45b8-83ab-6ca1daa4e5c4"
+    },
+    {
+      "start_time": 1204,
+      "end_time": 1217,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We are all entwined and in tune. Though sometimes at first it seems that we are very much out of tune. We are all very much in tune and all very much of one mind and of one spirit."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "887ce831-9f90-4c58-96ad-f3bb6844a7c1"
+    },
+    {
+      "start_time": 1218,
+      "end_time": 1245,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's all very intriguing, because all God's children eventually begin to merge. Although they retain their individuality and separate personality, we all begin to merge until we are harmonious. And in consequence, we live in a condition of peace and quietude and harmony, where all and each can have his or her interests, such as they may be."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "e11f1004-e443-4009-9334-4ed94ab2a9c3"
+    },
+    {
+      "start_time": 1245,
+      "end_time": 1273,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Some feel the urge...the need to work in various ways. Others do not. I prefer to continue to write because writing was, to a great extent, my life. And I am hoping to find a suitable instrument on your side - if I can - whose mind will be sufficiently open that I might be able to transmit new plays, new works, new things of interest, which will help humanity and enlighten humanity."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "56cc2f20-1897-4112-be1e-85b88ce7e566"
+    },
+    {
+      "start_time": 1273,
+      "end_time": 1300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But always remember, that the best way to reach a man's heart is not...is not through his stomach. But to reach his heart is to realise that one must give to him, something which is far removed from material things; something of the mind and of the spirit, which will last through time itself."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "f275864f-d1de-4f42-adc3-abe1b4fa04d7"
+    },
+    {
+      "start_time": 1303,
+      "end_time": 1309,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I feel that I could do a great deal, but I have yet to find a suitable instrument to do this work."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "2114137b-9b9b-42bd-828a-b33232a3d3e9"
+    },
+    {
+      "start_time": 1311,
+      "end_time": 1311,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mmm..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "f3c8a15e-c5e4-400b-abef-ccd86067e36a"
+    },
+    {
+      "start_time": 1314,
+      "end_time": 1319,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, we hope you will find one because the...your books, I admire them very, very much..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Woods"
+        }
+      ],
+      "uuid": "7d1de548-b6d2-4803-bbfc-5d46cffd3b0b"
+    },
+    {
+      "start_time": 1320,
+      "end_time": 1320,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Sniffs]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Flint"
+        }
+      ],
+      "uuid": "005f60ba-f324-48de-9065-59b1a0fcbc3d"
+    },
+    {
+      "start_time": 1322,
+      "end_time": 1322,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "...[unintelligible]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Woods"
+        }
+      ],
+      "uuid": "a52a7ade-131c-4e4f-8e67-493913f15f57"
+    },
+    {
+      "start_time": 1324,
+      "end_time": 1326,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I won't embarrass you by asking you the name of one of them."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "032367ed-e4b0-42f0-ab6f-11ee69810100"
+    },
+    {
+      "start_time": 1330,
+      "end_time": 1338,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But, uh, and I also read about the...your...the trial, your trial too, you know...[unintelligible]...and I thought you didn't have a very fair trial."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Woods"
+        }
+      ],
+      "uuid": "5222d2e7-4bcf-4712-a6c7-1b5b52c28fde"
+    },
+    {
+      "start_time": 1338,
+      "end_time": 1339,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you very much."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "6efebbb5-322b-48d3-8b24-54efb5304006"
+    },
+    {
+      "start_time": 1340,
+      "end_time": 1342,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I thought it was very unfair and unjust."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Woods"
+        }
+      ],
+      "uuid": "419e5933-d0fd-4ac9-aa76-55e760153c53"
+    },
+    {
+      "start_time": 1345,
+      "end_time": 1347,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Your trial has been enacted several times..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "00786dc6-4837-41bb-be4c-e1d4d08939c6"
+    },
+    {
+      "start_time": 1347,
+      "end_time": 1351,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes I know. It has been the most highly successful part of my career."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "d699af85-54a6-4612-b459-040eb4b409bd"
+    },
+    {
+      "start_time": 1351,
+      "end_time": 1355,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Laughing]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Flint"
+        }
+      ],
+      "uuid": "7ae16fa4-efe2-4498-9c45-14093c8e5be0"
+    },
+    {
+      "start_time": 1356,
+      "end_time": 1360,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mr Wilde, have you any...oh I suppose you...everybody has..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "b917d87d-4d8a-4752-b759-957bdd69c3c2"
+    },
+    {
+      "start_time": 1361,
+      "end_time": 1364,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I find this so complicated speaking to you. Most irritating in a way."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "03a850a1-4d58-43d5-a9e0-96f03b69483c"
+    },
+    {
+      "start_time": 1364,
+      "end_time": 1364,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "87642d7b-0c68-4491-9e23-0ac5ce1e9166"
+    },
+    {
+      "start_time": 1365,
+      "end_time": 1371,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's as if I can't get my mind clear; all the time there are stumbling blocks and hindrances. But no doubt I shall improve. Carry on, what was it you wished to ask me?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "52d094a5-3055-43f9-8506-c65c517a2ac7"
+    },
+    {
+      "start_time": 1372,
+      "end_time": 1378,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I expect everybody has when they pass over, you had some regrets I suppose? I mean, perhaps something you didn't do while you were over on this side?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "3d92a3d3-8de3-4e58-bcec-408a6599d3fb"
+    },
+    {
+      "start_time": 1379,
+      "end_time": 1382,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well my first regret was that I didn't stay longer on your side."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "661cc618-06a1-406c-8a0c-f003a5ecefaf"
+    },
+    {
+      "start_time": 1383,
+      "end_time": 1383,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh really?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "a51cf103-dc0d-4737-afa7-cce1f24146ae"
+    },
+    {
+      "start_time": 1383,
+      "end_time": 1410,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well of course. I still had desires. I still wanted to write further. I still wanted to reinstate myself, strange as it may seem, in human society. Not that I ever felt completely I was out of it. But I was sufficiently vain to assume that I could recapture my old place in the world. But that's a long time ago. Since then I've changed."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "91640295-96f3-44d1-97a8-f92eb83f0b8b"
+    },
+    {
+      "start_time": 1413,
+      "end_time": 1418,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mmm...yes. Is there anybody you would like to give a message to? It will go down on the tape you see?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "0a050dbc-dd78-4d70-954a-5b348d0f12b7"
+    },
+    {
+      "start_time": 1419,
+      "end_time": 1425,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't think there's anyone left on your side that I have any particular desire to send a message to."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "e07f3f79-a3ea-4630-ad76-2c562cefba8c"
+    },
+    {
+      "start_time": 1426,
+      "end_time": 1428,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Have you met Bernard Shaw on your side?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Woods"
+        }
+      ],
+      "uuid": "fbf5dd23-1a73-44b0-b032-ba7ea00930ad"
+    },
+    {
+      "start_time": 1429,
+      "end_time": 1434,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh I have met Shaw. Of course I've met Shaw...what a man!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "ba93a49a-993e-4bdd-9595-9baefc16f268"
+    },
+    {
+      "start_time": 1434,
+      "end_time": 1434,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Laughing]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "956d64a3-1807-4bbd-a99a-f3549fd0e626"
+    },
+    {
+      "start_time": 1435,
+      "end_time": 1436,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's true, yeah..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Woods"
+        }
+      ],
+      "uuid": "0879e498-62d2-4886-8aa4-74b2b4aba836"
+    },
+    {
+      "start_time": 1436,
+      "end_time": 1448,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Extraordinary character. Brilliant, if rather...well I perhaps better not say these things. I'm supposed to be, to some extent, developed."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "32f55275-dc77-48b5-b5d7-0c4d53e336b7"
+    },
+    {
+      "start_time": 1449,
+      "end_time": 1452,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Laughing]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Flint"
+        }
+      ],
+      "uuid": "4d92c296-96d6-4aab-865e-39c97ec4b808"
+    },
+    {
+      "start_time": 1453,
+      "end_time": 1455,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What's it like on your side; the plane you're on? Can you tell us something about that?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Woods"
+        }
+      ],
+      "uuid": "f9f260e5-7cc4-4199-8f15-c6a7a48bb3f8"
+    },
+    {
+      "start_time": 1455,
+      "end_time": 1462,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Electric, rumbling/revving"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e926c487-b436-4288-8a5d-fb1532a64362"
+    },
+    {
+      "start_time": 1461,
+      "end_time": 1462,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You mean pictorially?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "fd8cc5bc-3d10-4424-9b9f-64995248244d"
+    },
+    {
+      "start_time": 1463,
+      "end_time": 1474,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes. I thought...you have theatres and things like that. You've got theatres haven't you? Are you able to...you're still acting on...still have plays on that side and that sort of thing?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Woods"
+        }
+      ],
+      "uuid": "b033cddb-06d0-402d-ac0e-b841c69e4771"
+    },
+    {
+      "start_time": 1474,
+      "end_time": 1492,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, one still writes and one still continues. Our world is, in some senses - as I've no doubt you've heard - is very similar to your Earth. And we have all the manner of scenery that you are accustomed to. Even more beautiful."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "d0226d1e-af9d-42a1-bb71-b23adb6ec9ae"
+    },
+    {
+      "start_time": 1493,
+      "end_time": 1527,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nature, as you know nature, exists here. But the worser aspects and the more irritating aspects of nature are non...non-existent to us. For instance, we don't have the pests; such as flies, earwigs and all the irritating things that nature concocts to annoy man. Those things seem to have disappeared fortunately. We seem to have all the beauty and all the loveliness of nature, without all the petty irritants."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "8287a43a-832e-4674-a51a-0570ab58b354"
+    },
+    {
+      "start_time": 1527,
+      "end_time": 1528,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mmm."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "5b3fd5c7-1c0e-4fda-a8cf-8a5f9107d983"
+    },
+    {
+      "start_time": 1528,
+      "end_time": 1541,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No more swatting flies. Oh, I used to know a woman once, who used to love sitting all the afternoon in a chair with a swatter! And she had a swatting afternoon..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "bd63019a-f2dc-4f77-81d3-413158071e4c"
+    },
+    {
+      "start_time": 1542,
+      "end_time": 1542,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Laughing]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "0718ec26-2d0f-4b08-91a7-0d547cbd7e70"
+    },
+    {
+      "start_time": 1543,
+      "end_time": 1547,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I often wonder what she must be doing here without a swatter, without her flies to swat."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "400e9a41-6647-4323-bb63-e0c251d648b5"
+    },
+    {
+      "start_time": 1548,
+      "end_time": 1556,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh a long time ago. Things have changed. I look at London and I hardly recognise it. Thank God I lived before my time!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "4af32500-da03-4bcf-a27b-6139156f501a"
+    },
+    {
+      "start_time": 1556,
+      "end_time": 1557,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes it has changed."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Woods"
+        }
+      ],
+      "uuid": "6934c350-42af-42c7-85a6-00b22a0d47b4"
+    },
+    {
+      "start_time": 1558,
+      "end_time": 1560,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes. You won't recognise all the terrific tall buildings that are going up."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "429035cc-e679-4c91-a293-af8533eff85d"
+    },
+    {
+      "start_time": 1561,
+      "end_time": 1575,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't recognise hardly anything of London. And I am so happy that I came as I did and I departed as I did. I wouldn't want to live in your London today."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "d3dccf67-c213-4bd3-a89c-804b563b0797"
+    },
+    {
+      "start_time": 1576,
+      "end_time": 1578,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What are your buildings like in...on your side?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Woods"
+        }
+      ],
+      "uuid": "aef25f85-dff4-478d-9463-3b61d68dd8c6"
+    },
+    {
+      "start_time": 1579,
+      "end_time": 1586,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We have all manner of buildings. But on the sphere in which I live they are all elegant - great beauty."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "9d4a2cc8-e7c7-4252-8c33-3bd42f590dcb"
+    },
+    {
+      "start_time": 1587,
+      "end_time": 1589,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What, towns and cities and...?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Woods"
+        }
+      ],
+      "uuid": "0c9e8782-8952-404c-bf12-3b7cc5a824c4"
+    },
+    {
+      "start_time": 1589,
+      "end_time": 1604,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, you could call them cities. They are cities in which untold thousands of people live and have their habitat. But it's so different and yet, in some ways, so like the old."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "31cde69e-6742-43df-833a-816cd0e1c033"
+    },
+    {
+      "start_time": 1605,
+      "end_time": 1607,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But you don't have cars and things like that, have you?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Woods"
+        }
+      ],
+      "uuid": "9af1f5cd-4038-4c45-91ee-5b2fb733338a"
+    },
+    {
+      "start_time": 1608,
+      "end_time": 1642,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No. Thank goodness. We do not have those machines. Horses we still have; animals, pets - much that meant so much to humanity and humanity, to some extent, gave to in return. Such as one's pet dog, one's pet horse. Animals are very near to humans. Unfortunately humans are very often near to animals. I sometimes think the animals are more advanced than humans."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "55364b8e-9ed5-410a-9ff0-7337ab6272f7"
+    },
+    {
+      "start_time": 1643,
+      "end_time": 1643,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Woods"
+        }
+      ],
+      "uuid": "f5211112-7043-4c2d-9ab4-4d5878845c67"
+    },
+    {
+      "start_time": 1644,
+      "end_time": 1715,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At least they follow their natural instincts and they are not, in consequence, considered to be doing anything morally or otherwise wrong. Human beings are always in trouble, because they are trying desperately, often, to fight their true selves. Man should be allowed to be his true self, because only by that can he hope to develop. I do not mean by that, that crime, as such, should be recognised or in any way assisted. But there should be some curb it is true, by the law. But the law itself has such strange ways of working. It cannot understand the frailties or if it can understand the frailties of the human, it often punishes unnecessarily. We must help each other, we must learn to be more kind, more tolerant. We must try always to put ourselves in the other person's place, try to realise that we have a duty to others. And that the only way we can hope to find our salvation is to be merciful and to be considerate and to give love."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "5fca440c-1b74-40e3-88b6-eba2916f8925"
+    },
+    {
+      "start_time": 1716,
+      "end_time": 1719,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you have a house yourself where you can write in?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Woods"
+        }
+      ],
+      "uuid": "d1ecdc7b-5ae8-4762-ad12-e913a45c7eac"
+    },
+    {
+      "start_time": 1719,
+      "end_time": 1736,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes I do. A very beautiful house. A house after my own heart. But then again, in a sense, I suppose it is because I myself created it, without even realising it. I was creating before I ever came here, by my thoughts, my better thoughts."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "95425ab1-57ee-4d53-89c9-564ebe809067"
+    },
+    {
+      "start_time": 1736,
+      "end_time": 1738,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And with a garden and all that outside?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Woods"
+        }
+      ],
+      "uuid": "a7ae5d04-de71-4c15-95d3-87ab596f6318"
+    },
+    {
+      "start_time": 1739,
+      "end_time": 1742,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I have a garden. Not too large, but sufficient."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "b4a4f830-ffb5-45f5-b626-a78926c39bf5"
+    },
+    {
+      "start_time": 1742,
+      "end_time": 1742,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Woods"
+        }
+      ],
+      "uuid": "34ed003e-b96d-4a1e-849f-45a6336f884b"
+    },
+    {
+      "start_time": 1743,
+      "end_time": 1766,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But I was never one for the outdoor life. I appreciated nature, but I preferred to watch nature from a distance, rather than to be always be underneath her glaring light. One perceives often more clearly, more distinctly, from a distance. I must go. I will come and talk to you again if I may?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "67a64f56-cc11-4b17-993a-4869d9131630"
+    },
+    {
+      "start_time": 1766,
+      "end_time": 1764,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's very nice of you to come through. Thank you very much."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Woods"
+        }
+      ],
+      "uuid": "2654fee4-1551-4759-9188-8e5c8c443092"
+    },
+    {
+      "start_time": 1765,
+      "end_time": 1766,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you Mr Wilde, very much."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "0b479b94-6b8c-48a5-bf31-121c39f036ac"
+    },
+    {
+      "start_time": 1767,
+      "end_time": 1774,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's been very nice speaking to you and if I sometimes I've seemed...seemed a little acid, I've done as much for your benefit..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "3b19a42b-14c0-4588-ae7c-d8f80764fd54"
+    },
+    {
+      "start_time": 1774,
+      "end_time": 1774,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh yes, we know you have."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "c9384b4b-492a-46eb-a37c-dbc1862d291f"
+    },
+    {
+      "start_time": 1774,
+      "end_time": 1775,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You've done very well."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Woods"
+        }
+      ],
+      "uuid": "0a52f196-76cf-4572-9195-6ce8f00bf58e"
+    },
+    {
+      "start_time": 1775,
+      "end_time": 1790,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "...so that you might, in some measure, be of help to others. Because otherwise if I am not, to some extent, my old self, people will say 'that cannot be'. So for your sakes, I do this. But I can and will talk on the things that you wish me to speak about, uh, in due course."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "74472af5-d695-449b-ad18-7c3db3fbab0b"
+    },
+    {
+      "start_time": 1791,
+      "end_time": 1800,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "May God bless you' - that is the common thing to say I believe, when you say goodbye at Spiritualist séances... 'May God bless you my friends' - I'll say it with the rest and be one of them. Goodbye."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Wilde"
+        }
+      ],
+      "uuid": "b4f7df7b-5107-4315-ad41-7ea4b30c515a"
+    },
+    {
+      "start_time": 1801,
+      "end_time": 1802,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you Mr Wilde."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Greene"
+        }
+      ],
+      "uuid": "141a4687-5c15-4792-8340-a7fb1311809a"
+    },
+    {
+      "start_time": 1802,
+      "end_time": 1802,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you very much."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Woods"
+        }
+      ],
+      "uuid": "efb3cff2-41cc-43b0-8d2a-e2905da067ae"
+    }
+  ],
   "set": "Default",
   "event_id": "8d371318-58fa-4ece-91de-a3f65c1f79c4",
   "source_id": "9eb89887-a4f2-4eef-8289-edc645456d2d"
